@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:content-box;
+    font-family:sans-serif;
+    text-align: center;
+    background-color:#fff7ec;
+}
+h1 {
+    font-size:2rem;
+    margin:2rem auto;
+}
+p {
+    font-size:1.7rem;
+}
