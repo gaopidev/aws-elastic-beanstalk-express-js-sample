@@ -7,9 +7,11 @@
     background-color:#fff7ec;
 }
 h1 {
-    font-size:2rem;
+    font-size:3rem;
     margin:2rem auto;
 }
 p {
     font-size:1.7rem;
+    line-height: 1em;
+    letter-spacing:1px;
 }
